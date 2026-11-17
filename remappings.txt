@@ -1,0 +1,4 @@
+periphery/=lib/relay-periphery-src/
+@openzeppelin/contracts/=lib/openzeppelin-contracts/contracts/
+solady/=lib/solady/
+forge-std/=lib/forge-std/src/
